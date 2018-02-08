@@ -1,0 +1,22 @@
+<kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ <item z-index="3" type="QGraphicsTextItem">
+  <position x="548" y="467">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="50" box-height="280" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="70" box-width="1015.94" font-color="83,83,83,255" alignment="1">成都七中 王修涵（wxh010910）
+淮阴中学 杨乾澜（yanQval）
+长乐一中 王颖
+中山纪中 王之栋（WerKeyTom_FTD）</content>
+ </item>
+ <item z-index="2" type="QGraphicsTextItem">
+  <position x="366" y="327">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="50" box-height="210" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="70" box-width="689.328" font-color="83,83,83,255" alignment="1">填词：临沂一中 黄浩睿
+视频：临沂一中 黄浩睿
+演唱：</content>
+ </item>
+ <startviewport rect="0,0,1920,1080"/>
+ <endviewport rect="0,0,1920,1080"/>
+ <background color="0,0,0,0"/>
+</kdenlivetitle>

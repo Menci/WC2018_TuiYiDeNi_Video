@@ -1,0 +1,1920 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" version="6.4.1" root="/home/Menci/Videos/WC2018" producer="main bin" LC_NUMERIC="zh_CN.UTF-8">
+ <profile width="1920" frame_rate_den="1" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" colorspace="709" sample_aspect_den="1" description="HD 1080i 25 fps" progressive="0" sample_aspect_num="1"/>
+ <producer id="2" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/firstlast cf 提交记录.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1773</property>
+  <property name="meta.media.height">2012</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">1521176</property>
+  <property name="kdenlive:file_hash">6e9f2ffe9fe6c8b060ebbd871c17a3e6</property>
+ </producer>
+ <producer id="3" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/ldz CF.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1821</property>
+  <property name="meta.media.height">1527</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">372076</property>
+  <property name="kdenlive:file_hash">64200309bc70ea8d92a27322e5168889</property>
+ </producer>
+ <producer id="4" out="193" in="0">
+  <property name="length">194</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/Menci 写挂的暴力.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1530</property>
+  <property name="meta.media.height">3343</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">747396</property>
+  <property name="kdenlive:file_hash">9b6f553f9bf280ee43b61d6776b87448</property>
+ </producer>
+ <producer id="5" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/ratings.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1785</property>
+  <property name="meta.media.height">631</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">234527</property>
+  <property name="kdenlive:file_hash">0a13364c7d245febd48dda483f25db6d</property>
+ </producer>
+ <producer id="6" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/Sengxian笔记.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1865</property>
+  <property name="meta.media.height">5042</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">1709747</property>
+  <property name="kdenlive:file_hash">3b83c2602874e2c469318b616bab8e83</property>
+ </producer>
+ <producer id="7" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/yuno毒瘤.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1710</property>
+  <property name="meta.media.height">3490</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">2365063</property>
+  <property name="kdenlive:file_hash">13f36d4b1c08ef1c3340de907b18a603</property>
+ </producer>
+ <producer id="8" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/yuno毒瘤loj.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1880</property>
+  <property name="meta.media.height">2481</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">824301</property>
+  <property name="kdenlive:file_hash">bc0dd321ef901d5e12a5ccbd2910b9fa</property>
+ </producer>
+ <producer id="9" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/zyz题解.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1819</property>
+  <property name="meta.media.height">7824</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">1867278</property>
+  <property name="kdenlive:file_hash">d36c39d137a495a3b39ad867df78a057</property>
+ </producer>
+ <producer id="10" out="6200" in="0">
+  <property name="length">6201</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/bkg.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">871167</property>
+  <property name="kdenlive:file_hash">86468b09a4d5cfc9e5f0deeaf4bdfd1c</property>
+ </producer>
+ <producer id="11" title="Anonymous Submission" out="6199" in="0">
+  <property name="length">00:04:08:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">wyyyyyyy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">152588</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.99r</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:file_size">4729848</property>
+  <property name="kdenlive:file_hash">6bddd645c5ffe970c60e8c6c3f4ef089</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="12" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">明天你是否会想起</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="480" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="959.875" font-color="83,83,83,255" alignment="4">明天你是否会想起&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">aaa0b54e381e82ff733c3000dbbe5493</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="13" title="Anonymous Submission" out="211" in="0">
+  <property name="length">212</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="526" y="681">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="70" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="70" line-spacing="0" box-width="867.781" font-color="83,83,83,255" alignment="1">——改编自高晓松《同桌的你》&lt;/content>
+ &lt;/item>
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="560" y="351">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="200" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="200" line-spacing="0" box-width="800" font-color="83,83,83,255" alignment="1">退役的你&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">68288c7f799e19e05ce85bb15617061d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="14" title="Anonymous Submission" out="207" in="0">
+  <property name="length">208</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="3" type="QGraphicsTextItem">
+  &lt;position x="548" y="467">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="280" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="70" box-width="1015.94" font-color="83,83,83,255" alignment="1">成都七中 王修涵（wxh010910）
+淮阴中学 杨乾澜（yanQval）
+长乐一中 王颖
+中山纪中 王之栋（WerKeyTom_FTD）&lt;/content>
+ &lt;/item>
+ &lt;item z-index="2" type="QGraphicsTextItem">
+  &lt;position x="366" y="327">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="210" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="70" box-width="914.531" font-color="83,83,83,255" alignment="1">填词：临沂一中 黄浩睿（Menci）
+视频：临沂一中 黄浩睿（Menci）
+演唱：&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">8e2d007083ce9904ece5fc422dbb6413</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="15" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">昨天未调完的题</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">昨天未调完的题&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">835b427e3f34fe6ea85bdf401431c5b9</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="16" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">明天你是否还惦记</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="480" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="959.875" font-color="83,83,83,255" alignment="4">明天你是否还惦记&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">835b427e3f34fe6ea85bdf401431c5b9</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="17" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">考场写挂的暴力</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">考场写挂的暴力&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="19" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">集训队都已想不起</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="480" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="959.875" font-color="83,83,83,255" alignment="4">集训队都已想不起&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="20" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">没能来雅礼的你</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">没能来雅礼的你&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="21" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">我也是偶然翻 OJ</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="530" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="859.672" font-color="83,83,83,255" alignment="4">我也是偶然翻 OJ&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="22" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">才想起退役的你</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">才想起退役的你&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="23" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁羡慕比赛 AK 的你</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="451" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="1018.89" font-color="83,83,83,255" alignment="4">谁羡慕比赛 AK 的你&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="24" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁膜拜红名的你</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">谁膜拜红名的你&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="25" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁看了你的生涯回忆</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="420" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="1079.86" font-color="83,83,83,255" alignment="4">谁看了你的生涯回忆&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="26" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁借走你的 RP</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="588" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="744.016" font-color="83,83,83,255" alignment="4">谁借走你的 RP&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="27" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">你从前总是很小心</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="480" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="959.875" font-color="83,83,83,255" alignment="4">你从前总是很小心&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">aaa0b54e381e82ff733c3000dbbe5493</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="28" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">对拍后才肯交题</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">对拍后才肯交题&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="29" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">你也曾无意中说起</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="480" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="959.875" font-color="83,83,83,255" alignment="4">你也曾无意中说起&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">aaa0b54e381e82ff733c3000dbbe5493</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="30" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">喜欢在深夜 AC</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="582" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="756.016" font-color="83,83,83,255" alignment="4">喜欢在深夜 AC&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">aaa0b54e381e82ff733c3000dbbe5493</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="31" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">那时候比赛总很难</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="480" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="959.875" font-color="83,83,83,255" alignment="4">那时候比赛总很难&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">aaa0b54e381e82ff733c3000dbbe5493</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="32" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Rating 总涨得太慢</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="508" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="904.531" font-color="83,83,83,255" alignment="4">Rating 总涨得太慢&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">aaa0b54e381e82ff733c3000dbbe5493</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="33" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">你总说退役遥遥无期</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="420" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="1079.86" font-color="83,83,83,255" alignment="4">你总说退役遥遥无期&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">aaa0b54e381e82ff733c3000dbbe5493</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="34" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">转眼就各分东西</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">转眼就各分东西&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">aaa0b54e381e82ff733c3000dbbe5493</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="35" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁秒了你出的模拟题</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="420" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="1079.86" font-color="83,83,83,255" alignment="4">谁秒了你出的模拟题&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="36" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁骂着毒瘤的你</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">谁骂着毒瘤的你&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="37" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁看了你的题解笔记</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="420" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="1079.86" font-color="83,83,83,255" alignment="4">谁看了你的题解笔记&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="38" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁传给学妹学弟</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">谁传给学妹学弟&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="39" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">同行的日子都远去</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="480" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="959.875" font-color="83,83,83,255" alignment="4">同行的日子都远去&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="40" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">我们也终会退役</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">我们也终会退役&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="41" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">多年后谁会再想起</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="480" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="959.875" font-color="83,83,83,255" alignment="4">多年后谁会再想起&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="42" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">定格考场的记忆</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">定格考场的记忆&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="43" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁记得你出的模拟题</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="420" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="1079.86" font-color="83,83,83,255" alignment="4">谁记得你出的模拟题&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="44" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁忘记毒瘤的你</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">谁忘记毒瘤的你&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="45" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁学会你的题解笔记</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="420" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="1079.86" font-color="83,83,83,255" alignment="4">谁学会你的题解笔记&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="46" title="Anonymous Submission" out="206" in="0">
+  <property name="length">207</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">谁教给学妹学弟</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="zh_CN.UTF-8">
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="540" y="913">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="120" font-outline-color="255,255,255,255" shadow="0;#64000000;3;3;3" font="MF TongZhen (Noncommercial)" font-underline="0" font-outline="0.2" font-pixel-size="120" line-spacing="0" box-width="839.891" font-color="83,83,83,255" alignment="4">谁教给学妹学弟&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ff041c7d7b8b2e8e3f822b469edaa909</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="48" title="Anonymous Submission" out="193" in="0">
+  <property name="length">194</property>
+  <property name="eof">pause</property>
+  <property name="resource">images/Menci 写挂的暴力_遮蔽.xcf</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">1474283</property>
+  <property name="kdenlive:file_hash">cacad9fa1578cb207f69786b550c829d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <playlist id="main bin">
+  <property name="kdenlive:docproperties.audiotargettrack">1</property>
+  <property name="kdenlive:docproperties.decimalPoint">.</property>
+  <property name="kdenlive:docproperties.dirtypreviewchunks"/>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1514637565996</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">17.08.3</property>
+  <property name="kdenlive:docproperties.position">1349</property>
+  <property name="kdenlive:docproperties.previewchunks"/>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
+  <property name="kdenlive:docproperties.proxyextension">mpg</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-s 640x480 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2</property>
+  <property name="kdenlive:docproperties.storagefolder">1514637565996</property>
+  <property name="kdenlive:docproperties.version">0.96</property>
+  <property name="kdenlive:docproperties.verticalzoom">0</property>
+  <property name="kdenlive:docproperties.videotargettrack">2</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">100</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups"/>
+  <property name="kdenlive:folder.-1.1">配图</property>
+  <property name="kdenlive:folder.-1.2">歌词</property>
+  <property name="kdenlive:docproperties.renderaudioquality">96</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4 - the dominating format (H264/AAC)</property>
+  <property name="kdenlive:docproperties.renderquality">38</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">1</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">360</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">640</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">untitled.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="kdenlive:folder.1.3">遮蔽</property>
+  <property name="xml_retain">1</property>
+  <entry out="124" producer="2" in="0"/>
+  <entry out="124" producer="3" in="0"/>
+  <entry out="124" producer="4" in="0"/>
+  <entry out="124" producer="5" in="0"/>
+  <entry out="124" producer="6" in="0"/>
+  <entry out="124" producer="7" in="0"/>
+  <entry out="124" producer="8" in="0"/>
+  <entry out="124" producer="9" in="0"/>
+  <entry out="124" producer="10" in="0"/>
+  <entry out="6199" producer="11" in="0"/>
+  <entry out="124" producer="12" in="0"/>
+  <entry out="124" producer="13" in="0"/>
+  <entry out="124" producer="14" in="0"/>
+  <entry out="206" producer="15" in="0"/>
+  <entry out="206" producer="16" in="0"/>
+  <entry out="206" producer="17" in="0"/>
+  <entry out="206" producer="19" in="0"/>
+  <entry out="206" producer="20" in="0"/>
+  <entry out="206" producer="21" in="0"/>
+  <entry out="206" producer="22" in="0"/>
+  <entry out="206" producer="23" in="0"/>
+  <entry out="206" producer="24" in="0"/>
+  <entry out="206" producer="25" in="0"/>
+  <entry out="206" producer="26" in="0"/>
+  <entry out="206" producer="27" in="0"/>
+  <entry out="206" producer="28" in="0"/>
+  <entry out="206" producer="29" in="0"/>
+  <entry out="206" producer="30" in="0"/>
+  <entry out="206" producer="31" in="0"/>
+  <entry out="206" producer="32" in="0"/>
+  <entry out="206" producer="33" in="0"/>
+  <entry out="206" producer="34" in="0"/>
+  <entry out="206" producer="35" in="0"/>
+  <entry out="206" producer="36" in="0"/>
+  <entry out="206" producer="37" in="0"/>
+  <entry out="206" producer="38" in="0"/>
+  <entry out="206" producer="39" in="0"/>
+  <entry out="206" producer="40" in="0"/>
+  <entry out="206" producer="41" in="0"/>
+  <entry out="206" producer="42" in="0"/>
+  <entry out="206" producer="43" in="0"/>
+  <entry out="206" producer="44" in="0"/>
+  <entry out="206" producer="45" in="0"/>
+  <entry out="206" producer="46" in="0"/>
+  <entry out="124" producer="48" in="0"/>
+ </playlist>
+ <producer id="black" out="500" in="0">
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="black_track">
+  <entry out="6200" producer="black" in="0"/>
+ </playlist>
+ <producer id="11_playlist2" title="Anonymous Submission" out="6199" in="0">
+  <property name="length">00:04:08:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">wyyyyyyy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:file_size">4729848</property>
+  <property name="kdenlive:file_hash">6bddd645c5ffe970c60e8c6c3f4ef089</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">152588</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.99r</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:track_name">音乐</property>
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:locked_track">0</property>
+  <blank length="101"/>
+  <entry out="6199" producer="11_playlist2" in="101"/>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:track_name">背景图</property>
+  <property name="kdenlive:locked_track">0</property>
+  <blank length="101"/>
+  <entry out="6199" producer="10" in="101"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:track_name">前景图</property>
+  <property name="kdenlive:locked_track">0</property>
+  <blank length="574"/>
+  <entry out="192" producer="4" in="0">
+   <filter id="qtblend">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=-1728 100 5376 3024 0;25=-1728 -191.016 5376 3024 1;168=-1728 -1855.62 5376 3024 1;192=-1728 -2135 5376 3024 0</property>
+    <property name="rotation">0=0;25=0;168=0;192=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist0">
+  <property name="kdenlive:track_name">遮蔽</property>
+  <property name="kdenlive:locked_track">0</property>
+  <blank length="574"/>
+  <entry out="192" producer="48" in="0"/>
+  <blank length="582"/>
+  <entry out="124" producer="3" in="0"/>
+ </playlist>
+ <playlist id="playlist4">
+  <property name="kdenlive:track_name">歌词</property>
+  <property name="kdenlive:locked_track">0</property>
+  <blank length="101"/>
+  <entry out="170" producer="13" in="101">
+   <filter id="filter0">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=0 0 1920 1080 1;157=0 0 1920 1080 1;170=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;101=0;157=0;170=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry out="206" producer="14" in="0">
+   <filter id="filter1">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;12=0 0 1920 1080 1;176=0 0 1920 1080 1;206=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;12=0;176=0;206=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="17"/>
+  <entry out="117" producer="12" in="23">
+   <filter id="filter2">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">23=0 0 1920 1080 0;37=0 0 1920 1080 1;104=0 0 1920 1080 1;117=0 0 1920 1080 0</property>
+    <property name="rotation">23=0;37=0;104=0;117=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="96" producer="15" in="13">
+   <filter id="filter3">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">13=0 0 1920 1080 0;27=0 0 1920 1080 1;72=0 0 1920 1080 1;96=0 0 1920 1080 0</property>
+    <property name="rotation">13=0;27=0;71=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry out="120" producer="16" in="10">
+   <filter id="filter4">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">10=0 0 1920 1080 0;35=0 0 1920 1080 1;104=0 0 1920 1080 1;120=0 0 1920 1080 0</property>
+    <property name="rotation">10=0;35=0;104=0;120=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="81" producer="17" in="0">
+   <filter id="filter5">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;10=0 0 1920 1080 1;57=0 0 1920 1080 1;81=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;10=0;57=0;81=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="124" producer="19" in="15">
+   <filter id="filter6">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">15=0 0 1920 1080 0;39=0 0 1920 1080 1;106=0 0 1920 1080 1;124=0 0 1920 1080 0</property>
+    <property name="rotation">15=0;39=0;106=0;124=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="74" producer="20" in="0">
+   <filter id="filter7">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;12=0 0 1920 1080 1;56=0 0 1920 1080 1;74=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;12=0;56=0;74=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="116" producer="21" in="0">
+   <filter id="filter8">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;28=0 0 1920 1080 1;99=0 0 1920 1080 1;116=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;28=0;99=0;116=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="74" producer="22" in="0">
+   <filter id="filter9">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;10=0 0 1920 1080 1;56=0 0 1920 1080 1;74=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;10=0;56=0;74=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="103"/>
+  <entry out="101" producer="23" in="0">
+   <filter id="filter10">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;13=0 0 1920 1080 1;89=0 0 1920 1080 1;101=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;13=0;89=0;101=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="82" producer="24" in="3">
+   <filter id="filter11">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">3=0 0 1920 1080 0;12=0 0 1920 1080 1;62=0 0 1920 1080 1;82=0 0 1920 1080 0</property>
+    <property name="rotation">3=0;12=0;62=0;82=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="2"/>
+  <entry out="107" producer="25" in="0">
+   <filter id="filter12">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 1;27=0 0 1920 1080 1;95=0 0 1920 1080 1;107=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;27=0;95=0;107=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="81" producer="26" in="0">
+   <filter id="filter13">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;10=0 0 1920 1080 1;67=0 0 1920 1080 1;81=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;10=0;67=0;81=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <blank length="863"/>
+  <entry out="120" producer="27" in="21">
+   <filter id="filter14">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">21=0 0 1920 1080 0;42=0 0 1920 1080 1;111=0 0 1920 1080 1;120=0 0 1920 1080 0</property>
+    <property name="rotation">21=0;42=0;111=0;120=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="88" producer="28" in="0">
+   <filter id="filter15">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;13=0 0 1920 1080 1;65=0 0 1920 1080 1;88=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;13=0;65=0;88=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="100" producer="29" in="0">
+   <filter id="filter16">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;22=0 0 1920 1080 1;92=0 0 1920 1080 1;100=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;22=0;92=0;100=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="87" producer="30" in="0">
+   <filter id="filter17">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;10=0 0 1920 1080 1;64=0 0 1920 1080 1;87=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;10=0;64=0;87=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="102" producer="31" in="0">
+   <filter id="filter18">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;23=0 0 1920 1080 1;94=0 0 1920 1080 1;102=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;23=0;94=0;102=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="82" producer="32" in="0">
+   <filter id="filter19">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;9=0 0 1920 1080 1;59=0 0 1920 1080 1;82=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;9=0;59=0;82=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="109" producer="33" in="0">
+   <filter id="filter20">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;25=0 0 1920 1080 1;103=0 0 1920 1080 1;109=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;25=0;103=0;109=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="72" producer="34" in="0">
+   <filter id="filter21">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;6=0 0 1920 1080 1;57=0 0 1920 1080 1;72=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;6=0;57=0;72=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="60"/>
+  <entry out="119" producer="35" in="14">
+   <filter id="filter22">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">14=0 0 1920 1080 0;36=0 0 1920 1080 1;112=0 0 1920 1080 1;119=0 0 1920 1080 0</property>
+    <property name="rotation">14=0;36=0;112=0;119=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="83" producer="36" in="0">
+   <filter id="filter23">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;8=0 0 1920 1080 1;65=0 0 1920 1080 1;83=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;8=0;65=0;83=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="105" producer="37" in="0">
+   <filter id="filter24">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;19=0 0 1920 1080 1;94=0 0 1920 1080 1;105=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;19=0;94=0;105=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="73" producer="38" in="0">
+   <filter id="filter25">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;7=0 0 1920 1080 1;63=0 0 1920 1080 1;73=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;7=0;63=0;73=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="444"/>
+  <entry out="105" producer="39" in="8">
+   <filter id="filter26">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">8=0 0 1920 1080 0;24=0 0 1920 1080 1;100=0 0 1920 1080 1;105=0 0 1920 1080 0</property>
+    <property name="rotation">8=0;24=0;100=0;105=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="80" producer="40" in="0">
+   <filter id="filter27">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;8=0 0 1920 1080 1;64=0 0 1920 1080 1;80=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;8=0;64=0;80=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="107" producer="41" in="0">
+   <filter id="filter28">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;23=0 0 1920 1080 1;98=0 0 1920 1080 1;107=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;23=0;98=0;107=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="69" producer="42" in="0">
+   <filter id="filter29">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;11=0 0 1920 1080 1;59=0 0 1920 1080 1;69=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;11=0;59=0;69=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="25"/>
+  <entry out="94" producer="43" in="0">
+   <filter id="filter30">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;12=0 0 1920 1080 1;86=0 0 1920 1080 1;94=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;12=0;86=0;94=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="86" producer="44" in="0">
+   <filter id="filter31">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;10=0 0 1920 1080 1;68=0 0 1920 1080 1;86=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;10=0;68=0;86=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="106" producer="45" in="0">
+   <filter id="filter32">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;20=0 0 1920 1080 1;98=0 0 1920 1080 1;106=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;20=0;98=0;106=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="90" producer="46" in="0">
+   <filter id="filter33">
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="rect">0=0 0 1920 1080 0;10=0 0 1920 1080 1;69=0 0 1920 1080 1;90=0 0 1920 1080 0</property>
+    <property name="rotation">0=0;10=0;69=0;90=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+ </playlist>
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="6200" in="0">
+  <track producer="black_track"/>
+  <track producer="playlist2" hide="video"/>
+  <track producer="playlist3"/>
+  <track producer="playlist1"/>
+  <track producer="playlist0"/>
+  <track producer="playlist4"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition6">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition7">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition8">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>
